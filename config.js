@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Em à!',
+    introTitle: 'Cac cau a`!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Phari chawng em da iu 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    title: 'CHUC MUNG NGAY PHU LU 😙',
+    desc: 'NGAY PHU LU ZZ ',
+    btnYes: 'QUA LA VUI <33',
+    btnNo: 'Không vui :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao cac cau lai hoc cung bon to',
+    btnReply: 'Gửi cho to <3',
+    reply: 'Vi cac cau qua la tuyet voi <33333333',
+    mess: 'Bon to biet r ne ',
+    messDesc: 'Khi lao offline to chuc cho nhe.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/profile.php?id=100050890121859' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
