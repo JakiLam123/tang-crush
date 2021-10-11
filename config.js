@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'Không vui :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao cac cau lai hoc cung bon to',
     btnReply: 'Gửi cho to <3',
-    reply: 'Vi cac cau qua la tuyet voi <33333333',
+    reply: 'Vi cac cau qua la tuyet voi <3333333',
     mess: 'Bon to biet r ne ',
     messDesc: 'Khi lao offline to chuc cho nhe.',
     btnAccept: 'Okiiiii lun <3',
